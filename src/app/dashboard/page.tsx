@@ -118,7 +118,7 @@ export default function Dashboard() {
     {
       id: "7890244",
       company: "XYZ eCommerce Pvt Ltd",
-      status: "Need Manual Review"
+      status: "Need Manual Review",
       amount: "₹51,000",
     },
     {
