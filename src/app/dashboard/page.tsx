@@ -112,14 +112,14 @@ export default function Dashboard() {
     {
       id: "7890243",
       company: "ABC Digital Solutions",
-      status: "Need Manual review",
-      amount: "₹15,000",
+      status: "Valid Transaction",
+      amount: "₹49,000",
     },
     {
       id: "7890244",
       company: "XYZ eCommerce Pvt Ltd",
-      status: "Fraud Detected",
-      amount: "₹28,000",
+      status: "Need Manual Review
+      amount: "₹51,000",
     },
     {
       id: "7890245",
